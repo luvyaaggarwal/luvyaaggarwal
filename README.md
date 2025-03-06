@@ -10,8 +10,8 @@ I'm a passionate AI and Robotics enthusiast focused on learning to develop intel
 
 ##  Current Focus  
 I'm currently working on:  
-- 📖 Strengthening my **C++ memory management** skills  
-- 🤖 Enhancing my **robotics and AI** expertise  
+- 
+- 
 
 ##  Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/luvyaaggarwal/)  
