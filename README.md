@@ -11,11 +11,4 @@ I'm a passionate AI and Robotics enthusiast focused on learning to develop intel
 ##  Current Focus  
 I'm currently working on:  
 - 
-- 
-
-##  Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/luvyaaggarwal/)  
-- [Twitter/X](https://x.com/luvyaaggarwal)  
-- [Email](luvya.556@gmail.com)  
-
-Feel free to check out my projects and contribute! 🚀  
+-   
